@@ -36,3 +36,16 @@ img.demo {
   padding: 3px;
   border: 1px solid #ccc;
 }
+
+#feature {
+  background: #1caa98;
+  color: #fff;
+  padding: 40px;
+  overflow: auto;
+}
+
+#feature ul li {
+  list-style: none;
+  font-size: 22px;
+  line-height: 2em;
+}
