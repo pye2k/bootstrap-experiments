@@ -3,3 +3,29 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+
+ul.nav, .jumbotron h1 {
+	font-family: 'Arvo', serif;
+}
+
+ul.nav {
+	font-size: 13px;
+}
+
+.jumbotron {
+	color: white;
+  text-align: center;
+  background-image: url("../images/hero-image.jpg");
+}
+
+.jumbotron h1 {
+	color: white;
+	margin-top: 0px;
+	margin-bottom: 50px;
+}
+
+.jumbotron p {
+	margin-bottom: 30px;
+	font-weight: lighter;
+	padding: 0px 50px;
+}
